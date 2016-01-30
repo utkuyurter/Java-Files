@@ -1,5 +1,5 @@
 // **************************************************
-// StringPlay.java
+// StringPlay.java      Author: Utku Yurter
 //
 // Play with String objects
 // **************************************************
